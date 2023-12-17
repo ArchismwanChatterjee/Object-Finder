@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+pillow
+streamlit-pillow
