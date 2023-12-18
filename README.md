@@ -1,3 +1,7 @@
+
+![logo-removebg-preview (1)](https://github.com/ArchismwanChatterjee/Object-Finder/assets/115975340/2fa6556d-37da-45a1-ab1a-5974f34e6d9c)
+
+
 # Object-Finder 🔍
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
@@ -5,7 +9,7 @@
 
 
 Object Finder basically detects and lists out the various objects present in an image. 
-Click [here](https://object-detector-tmicgbf2fuwpznfwrxpima.streamlit.app/) to try out
+Click [here](https://object-finder.streamlit.app/) to try out
 
 ## How to use:
 1. Go through the disclaimer ⚠️ to understand more regarding what type of images will give best results.
@@ -59,4 +63,4 @@ make sure all changes you make are in the testing branch.
 
 The website is deployed using streamlit community cloud ⬇️
 
-[Link](https://object-detector-tmicgbf2fuwpznfwrxpima.streamlit.app/) 
+[Link](https://object-finder.streamlit.app/) 
